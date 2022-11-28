@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World! From me");
+﻿Console.WriteLine("Hello, World!");
